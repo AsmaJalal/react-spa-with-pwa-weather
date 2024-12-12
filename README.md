@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-<img align="right" width="1400" height="400" src="https://github.com/AsmaJalal/react-spa-with-pwa-weather/blob/master/weather.png" alt="Asma Jalal">
+<img align="right" width="1400" height="520" src="https://github.com/AsmaJalal/react-spa-with-pwa-weather/blob/master/weather.png" alt="Asma Jalal">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
